@@ -1,4 +1,4 @@
 config = {
-	"emailID": "stegosystem@gmail.com",
-	"passwd": "stego@123"
+	"emailID": "<REDACTED>",
+	"passwd": "<REDACTED>"
 }
