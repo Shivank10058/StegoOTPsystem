@@ -18,7 +18,7 @@ def getOTP():
 			send_an_email(email, enc_image)
 			return "Email successfully delivered!"
 		else:
-			return "Invalid parameter."
+			return "Invalid Parameter."
 
 @app.route("/validate-otp", methods=["GET", "POST"])
 def validateOTP():
