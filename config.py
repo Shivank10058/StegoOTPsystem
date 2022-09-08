@@ -1,4 +1,4 @@
 config = {
-	"emailID": "<REDACTED>",
-	"passwd": "<REDACTED>"
+	"emailID": "<REDEACTIVATED>",
+	"passwd": "<REDEACTIVATED>"
 }
